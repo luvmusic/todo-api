@@ -32,12 +32,13 @@ app.get("/todos/:id", function(req, res)
 {
 	console.log(req.method + " " + req.originalUrl);
 	
-	var requestedID = req.params.id;
+	var requestedID = parseInt(req.params.id);
 	var matchedToDo;
 	
 	todos.forEach(function(todo)
 	{
-		if (todo.id === requestedID){
+		if (requestedID === todo.id)
+		{
 			matchedToDo = todo;
 		}
 	});
