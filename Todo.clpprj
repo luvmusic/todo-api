@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\SW Projects\Training\NodeJS\todo-api\Todo.clpprj">
+	<settings><PM_URL><![CDATA[C:\SW Projects\Training\NodeJS\todo-api\]]></PM_URL><PM_HOME_URL><![CDATA[C:\SW Projects\Training\NodeJS\todo-api\]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value="C:\SW Projects\Training\NodeJS\todo-api\.gitignore;"/><lastopfiles>
+		<file name="C:\SW Projects\Training\NodeJS\todo-api\.gitignore"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\SW Projects\Training\NodeJS\todo-api\.gitignore" crc="1477243797"/>
+	</filescache>
+</project>
